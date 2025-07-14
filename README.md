@@ -4,7 +4,7 @@ Welcome! This repository contains the latest version of my professional resume i
 
 ## 🔗 Download
 
-- [Click here to download my resume (PDF)](./Varchasv_Hoon_Resume.pdf)
+- [Click here to download my resume (PDF)](./Varchasv_Hoon_Resume_Data_Engineer.pdf)
 
 ## 🧑‍💻 About Me
 
